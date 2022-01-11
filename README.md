@@ -4,7 +4,7 @@
 
 1. `$ git clone git@gitlab.com:bagid/bagidapp.git`
 1. `$ cd weatherapp`
-1. `create remove .example from .env.example file (.env has to be there)`
+1. `remove .example from .env.example file (or add .env file and copy .env.example there)`
 1. `$ yarn install`
 1. `$ cd ios`
 1. `$ pod install`
